@@ -92,17 +92,16 @@ Let's take a look at some of them:
 
 #### How to start with Brackets
 I have selected Brackets to make this tutorial because I think built-in
-live preview is cool tool for newbies, so this feature is going to make
-easier to start crafting websites.
+live preview is cool tool for newbies and definitely makes it easier start crafting websites.
 
 
-- Donwnload Brackets from its website [brackets.io](http://brackets.io/).
+- Download Brackets from its website [brackets.io](http://brackets.io/).
 
 - Open it. You should see this Brackets starting guide written in **html**:
 
   ![brackets first run](images/brackets_first_run.png)
 
-- To open the live preview, click on the button with a lightning on the right:
+- To open the live preview, click on the button with a lightning bolt on the right:
 
   ![live preview button detail](images/brackets_live_preview_button.png)
 
@@ -120,8 +119,7 @@ see this changes on the browser.
 
 
 
-Now we are going to create our first website for execute JavaScript
-there:
+Now we are going to create our first website for executing JavaScript:
 
 - Close current working files. Click on `File > Close All`.
 
@@ -173,7 +171,7 @@ function wave(name) {
 alert(wave('Gabriel'))
 ```
 
-Maybe you adviced that we have forgotten some semicolons, don't worry I
+You may have noticed that we have forgotten some semicolons, don't worry I
 did it intentionally because Brackets will tell us our syntax errors.
 
 - Click on the warning button:
